@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🧠 Izz Cipher | Cyber Elite in Training
 
-<!--
-**IzzZuhairi/IzzZuhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Izz Zuhairi** – a student from Sabah building my future in **cybersecurity, digital strategy, and psychological warfare**.  
+Known online as **Izz Cipher**, I explore the invisible battlefield of data, identity, and code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Focus
+
+- Learning **Python**, Linux, and Termux scripting
+- Developing mental models for **digital defense & attacks**
+- Applying **flag personality system** to profile people & threats
+- Training myself with tools like Hack The Box, CTFs, and strategy games
+
+---
+
+## 🛠 Projects (Coming Soon)
+
+- `flag-persona-detector`: Python script to map digital flags
+- `izz-cyber-labs`: My sandbox for tools, scripts & experiments
+- `myzpx-world`: Personal storyline about cyber governance & rebellion
+
+---
+
+## 🌍 Personal Vision
+
+> _"I don't fight loud. I fight smart. When I move, it's already too late for them."_  
+> — Izz Cipher
